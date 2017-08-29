@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("Github");
+printf("we are working with git");
 return 0;
 }
